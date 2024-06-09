@@ -4,6 +4,10 @@
 
 ## Who Am I
 - Mainly interested in `SwiftUI`, `Flutter`
+- My motto is the `Greedy Algorithm`. I am someone who seeks the `Best in the Present`
+***
+
+## Education
 - Majored in Computer Science at `Chung-ang University` (19.03 ~ )
 - Currently Studying at `Apple Developer Academy @ POSTECH` (24.03 ~ )
 ***
