@@ -1,6 +1,5 @@
 # Jung Seungwon(a.k.a. Shuwn)
-![header](https://capsule-render.vercel.app/api?type=venom&color=e5a0a6&height=300&section=header&text=I\'m%20a%20Greedy%20Developer%20&fontSize=40&desc=I%20do%20my%20best%20in%20all%20my%20\'Current\'
-)
+![header](https://capsule-render.vercel.app/api?type=venom&color=e5a0a6&height=300&section=header&text=I\'m%20a%20Greedy%20Developer&fontColor=0:000000,100:ffffff&fontSize=40&desc=I%20do%20my%20best%20in%20all%20my%20\'Current\')
 
 ## Who Am I
 - Mainly interested in `SwiftUI`, `Flutter`
